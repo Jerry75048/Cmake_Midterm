@@ -1,0 +1,2 @@
+This is a sample file served by the edge-node agent.
+Use `bin/client -h 127.0.0.1 -p 9000 get welcome.txt` to pull it.
